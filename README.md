@@ -1,5 +1,8 @@
+<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/48274694/126595421-8cd2e8f1-1ed3-4882-9fc5-712f3984ab28.png">
+
 # Vizually: An Image-Processing application
-![favicon](https://user-images.githubusercontent.com/48274694/126595421-8cd2e8f1-1ed3-4882-9fc5-712f3984ab28.png)
+
+
 
 ## Operators
 - ### Blur
